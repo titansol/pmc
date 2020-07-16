@@ -1,2 +1,2 @@
 # proxymyclass
-A website about a home work, assignments, and exam service.
+A website for a company that offers home work, assignments, and exam services.
